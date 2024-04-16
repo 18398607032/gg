@@ -1,6 +1,6 @@
 {
   "name": "gg_richard_selfsite",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url":"https://github.com/18398607032/gg"
+    "url":"git+https://github.com/18398607032/gg"
   }
 }
